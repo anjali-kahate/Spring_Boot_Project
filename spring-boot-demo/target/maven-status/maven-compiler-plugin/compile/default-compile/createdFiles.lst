@@ -1,0 +1,6 @@
+com\demo\controller\StudentController.class
+com\demo\SpringBootExampleSts.class
+com\demo\servise\StudentServiseImpl.class
+com\demo\repository\StudentRepository.class
+com\demo\servise\StudentServise.class
+com\demo\entity\Student.class
